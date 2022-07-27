@@ -1,0 +1,18 @@
+This project is a First-Person and Virtual-Reality Simulation that will be used to teach Pharmacy students the action of diuretics within the nephrons of the kidney.
+
+The experience is split into 5 main scenes.
+
+Scene 1: Tutorial, teaches the player controls, then moves them to the intro scene.
+
+Scene 2: Intro, gives the player and overhead view of a room in general, button moves them to the first Cell
+
+Scene 3: Cell 1, guides player in doing the exchanges of molecules, step-by-step then allow the user to move to the following Cell
+
+Scene 4: Cell 2, similar to cell 1 but with new exchanges
+
+Scene 5: Cell 3, similar to cell 1 but with new exchanges, once complete rolls credits, then create a token and bring up a room selection
+
+If the player returns to a room and has a token, rather than move to the next room, bring up the room select similar to Scene 5.
+
+
+Included is screen shots and C# scripts showing basic functionality
