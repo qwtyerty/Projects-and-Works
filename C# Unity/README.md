@@ -12,7 +12,7 @@ The main plugin involved in the project was SteamVR with the use of its OpenVR L
 Work type:
 Remote development and On-Site Testing
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Second Project: Kidney Nephron Diuretic Mechanisms
 
@@ -28,4 +28,4 @@ Similarly, to the previous project SteamVR was the main plugin used.
 Work type:
 Remote development and On-Site Testing
 
-Select Modules and images from the project are included in the Nephron Project Sub Folder
+Select Modules and images from this project are included in the Nephron Project Sub Folder
